@@ -1,0 +1,14 @@
+.jumbotron{
+  background-color: brown;
+  color: aqua;
+}
+
+
+
+ .Carousel{
+
+  width: 100%;
+
+} 
+
+.Carousel .image{height: 600px;}

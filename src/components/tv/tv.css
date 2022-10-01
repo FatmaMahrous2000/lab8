@@ -1,0 +1,9 @@
+.card{
+    /* margin-left: 3px ; */
+    width: 90% ; 
+    margin-bottom: 15px;
+}
+.row{
+    display: flex;justify-content: space-between;
+}
+.card-body button{font-size: 30px !important;}

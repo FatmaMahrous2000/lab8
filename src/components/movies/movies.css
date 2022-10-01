@@ -1,0 +1,29 @@
+.card{
+    /* margin-left: 3px ; */
+    
+    margin-bottom: 15px;background: none !important;border: none !important;
+    margin-bottom: 50px !important; display: flex;flex-direction: column;
+    align-items: center;justify-content: center;
+}
+.card img{
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+    
+    height: 300px;
+}
+.child{width: 95%;background: none !important;border:2px solid black;
+    border-radius:30px ;
+    -webkit-border-radius:30px ;
+    -moz-border-radius:30px ;
+    -ms-border-radius:30px ;
+    -o-border-radius:30px ;
+    display: flex;flex-direction: column;
+    align-items: center;justify-content: center;
+}
+
+.parent{
+    padding: 100px 70px;
+    box-sizing: border-box;
+    
+}
+.row{display: flex;justify-content: space-between;}
